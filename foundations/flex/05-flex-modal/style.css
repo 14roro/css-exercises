@@ -75,12 +75,12 @@ button.cancel {
 .top {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 8px;
 }
 
 .header {
   font-weight: bold;
   font-size: 20px;
-  margin-bottom: 8px;
 }
 
 .text {
