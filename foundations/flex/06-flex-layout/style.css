@@ -29,8 +29,15 @@ input {
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  gap: 16px;
 }
 
 .left-links a, .right-links a {
   text-decoration: none;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
 }
