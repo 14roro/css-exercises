@@ -28,3 +28,7 @@ input {
 .left-links, .right-links {
   list-style: none;
 }
+
+.left-links a, .right-links a {
+  text-decoration: none;
+}
